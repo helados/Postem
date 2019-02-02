@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "postem",
+    "packageName": "com.helados",
+    "packageFolder": "com/helados",
+    "serverPort": 8888,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": "spring-websocket",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "gradle",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.1",
+    "jwtSecretKey": "MDI5ODc1MDQ2NTI2MjBjMGEyNTQ2YTliYTUzZmEzOGFlNjQ2YzVkNzNlYmUzZWE3NjFiZWU3YmE4YzNmOWMwYzAyNmQwOTYyYTJkYmQwOGU1MjYwMThmZDhhNmU1ZTljNDE1MGFjNWU3MTBhMTVlOTk0MDUxOGJkYWM2OWYwN2Y=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  }
+}
